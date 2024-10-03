@@ -1,0 +1,18 @@
+Frontend:
+HTML5 -  is a language that determines how documents and web pages are displayed in a web browser, the language for the building blocks of any website
+CSS3 - is a popular style sheet language that determines how a document created in HTML is styled
+JavaScript -  allows you to change CSS and HTML elements on your website after the site has been loaded, which gives you the ability to make your site more interactive and engaging for users with animations, embedded video media, and more
+Bootstrap - is an essential HTML, CSS, and JavaScript library that will allow you to create a mobile-first and responsive website
+
+Backend:
+PHP - is an open-source server-side scripting language that many devs use for web development, is also a general-purpose language that you can use to make lots of projects, including Graphical User Interfaces
+SQL - allows developers can maintain and optimize large databases in a much more streamlined manner
+Ruby - is a scalable and fast programming language that can help you build an extensive website or program in just a short period of time
+
+Framework:
+Ruby on Rails - framework that gives developers practically everything they need to build a website
+React
+VueJS
+Angular
+NodeJS
+Laravel
